@@ -1,0 +1,89 @@
+body{
+    background-image: url("img/background-assesment 1.svg"),
+     url("img/background-assesment 2.svg");
+    background-position: left top, right;
+    background-repeat: no-repeat, no-repeat;
+}
+main{
+    margin-left: 140px;
+    margin-top: 60px;
+    margin-right: 140px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+#me h1{
+    font-family: League Spartan;
+    font-size: 50px;
+    color: hsl(300, 43%, 22%);
+}
+#move p{
+    color: hsl(300, 43%, 22%);
+    padding-bottom: 30px;
+    width: 350px;
+    height: 12px; 
+}
+#move{
+    margin-top: 40px;
+
+}
+.move1{
+    background-color: hsl(300, 11%, 95%);
+    padding: 0px 35px;
+    width: 300px;
+    line-height: 50px;
+    border-radius: 5px;
+}
+#div1{
+    margin-left: 40px;
+}
+#div2{
+    margin-left: 80px;
+}
+#me p{
+    color: hsl(300, 7%, 43%);
+    font-family: League Spartan;
+    font-size: 20px;
+}
+.div3{
+    display: flex;
+    gap: 30px;
+}
+.div3 img{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+#container1{
+    margin-top: -14px;
+}
+#container1 h2{
+    color: hsl(300, 11%, 95%);
+}
+#container1 h3{
+    margin-top: -16px;
+    color:  rgb(197, 68, 148);
+    
+}
+.down{
+    background-color:  hsl(300, 43%, 22%);
+    padding: 30px;
+    height: 220px;
+    border-radius: 10px;
+}
+.down p{
+    color: white;
+}
+#pull{
+    margin-top: 40px;
+}
+#pull1{
+    margin-top: 80px;
+}
+#se2{
+    display: flex;
+    flex-wrap: wrap;
+}
